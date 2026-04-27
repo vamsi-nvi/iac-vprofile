@@ -23,7 +23,7 @@ jobs:
     defaults:
       run:
         shell: bash
-        working-directory: ./terrafor
+        working-directory: ./terraform
 
     steps:
       - name: checkout source code
